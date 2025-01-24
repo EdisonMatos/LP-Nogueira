@@ -1,0 +1,71 @@
+import Navbar from "../components/sections/NavbarSocial";
+import Hero from "../components/sections/Hero";
+import Features from "../components/sections/Features";
+import About from "../components/sections/About";
+import AboutInstagram from "../components/sections/AboutInstagram";
+import Cta from "../components/sections/Cta";
+import Steps from "../components/sections/Steps";
+import Faq from "../components/sections/Faq";
+import FooterSocial from "../components/sections/FooterSocial";
+
+import FloatingWhatsappButton from "../components/interactives/FloatingWhatsappButton";
+import BackToTopButton from "../components/interactives/BackToTopButton";
+import FeaturesButton from "../components/sections/FeaturesButton";
+import FormAndLocation from "../components/sections/FormAndLocation";
+import WhatsChat from "../components/interactives/WhatsChat";
+import FloatingWhatsChat from "../components/interactives/FloatingWhatsChat";
+import Maps from "../components/sections/Maps";
+import FeatureModalWithCards from "../components/sections/FeatureModalWithCards";
+import Features6cards from "../components/sections/Features6cards";
+import FeaturesParagraphs from "../components/sections/FeaturesParagraphs";
+
+// Para ativar o modal na Sessão Feature, copiar e colar: modal={true} e remover para desativar.
+// Para ativar o modal na Sessão About, copiar e colar: modal={true} e remover para desativar.
+
+// Para ativar as informações de observação no Footer, adicionar (obs={true}) para informações de observação e remover para desativar.
+// Para ativar o endereço no Footer, adicionar (addres={true}) para informações de observação e remover para desativar.
+// Para ativar o botão do Instagram, adicionar (instagram={true}) e remover para desativar.
+// Para ativar o botão do Facebook, adicionar (facebook={true}) e remover para desativar.
+// Para ativar o botão do LinkedIn, adicionar (linkedin={true}) e remover para desativar.
+
+// Para ativar o modo LightMode na Navbar copie e cole: LightMode={true} e para desativar o modo LightMode Remova.
+// Para ativar o modo LightMode no Footer copie e cole: LightMode={true} e para desativar o modo LightMode Remova.
+
+// Para ativar o botão do Instagram no AboutSocial, adicionar (instagram={true}) e remover para desativar.
+// Para ativar o botão do Facebook no AboutSocial, adicionar (facebook={true}) e remover para desativar.
+
+export default function Index() {
+  return (
+    <div>
+      <Navbar LightMode={false} />
+      <Hero />
+      <Features />
+      {/* <Features6cards />
+      <FeatureModalWithCards />
+      <FeaturesParagraphs /> */}
+      <About modal={true} />
+      <AboutInstagram
+        socialPrint={false}
+        instagram={true}
+        facebook={false}
+        linkedin={false}
+        x={false}
+      />
+      <Cta />
+      <Steps />
+      {/* <Maps /> */}
+      <Faq />
+      <FooterSocial
+        addres={false}
+        instagram={true}
+        facebook={false}
+        linkedin={false}
+        x={false}
+        obs={false}
+      />
+      <FloatingWhatsappButton />
+      <BackToTopButton />
+      {/* <WhatsChat /> */}
+    </div>
+  );
+}
