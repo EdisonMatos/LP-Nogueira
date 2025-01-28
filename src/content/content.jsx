@@ -388,7 +388,10 @@ const content = {
         <div>
           A Nogueira Oliveira é um escritório com 15 anos de sólida trajetória
           no campo jurídico, formado por profissionais altamente qualificados e
-          dedicados à proteção dos direitos de seus clientes.
+          dedicados à proteção dos direitos de seus clientes. <br />
+          Especializado em Direito Previdenciário, Civil e Imobiliário, nosso
+          foco está em oferecer soluções eficazes e personalizadas para cada
+          necessidade.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
@@ -399,42 +402,42 @@ const content = {
           dedicados à proteção dos direitos de seus clientes.
           <br />
           <br />
-          Especializados em Direito Tributário, Constitucional e Imobiliário,
-          nossa equipe é composta por advogados comprometidos com a excelência,
-          a ética e a busca constante pela solução mais eficaz para cada caso.
+          Especializado em Direito Previdenciário, Civil e Imobiliário, nosso
+          foco está em oferecer soluções eficazes e personalizadas para cada
+          necessidade.
+          <br />
+          <br />
+          Nossa equipe tem como carro-chefe o Direito Previdenciario, um ramo do
+          Direito Público que trata de aposentadorias e benefícios do INSS, além
+          de atuar com isenção de Imposto de Renda para aposentados e
+          pensionistas enfermos e questões relacionadas ao FGTS para servidores
+          públicos.
+          <br />
+          <br />
+          Atuamos também em demandas no âmbito do Direito Civil, sempre com
+          ética, excelência e compromisso.
           <br />
           <br />
           Fundada por Dr. Marcus Sobrinho, bacharel em Direito pela Universidade
-          Potiguar, com especialização em Direito Tributário e Constitucional, e
-          Dra. Thássia Nogueira, também graduada pela mesma universidade e com
+          Potiguar e com ampla experiência em Direito Previdenciário e Civil, e
+          Dra. Thássia Nogueira, graduada pela mesma instituição, com
           especialização em Direito Imobiliário e Direito dos Contratos, a
-          Nogueira Oliveira é reconhecida por sua experiência e pelo seu
-          compromisso com a justiça.
+          Nogueira Oliveira se destaca pelo atendimento humanizado e pela busca
+          incessante por justiça.
           <br />
           <br />
-          A equipe do escritório é composta por profissionais com uma visão
-          multidisciplinar e uma abordagem personalizada para cada cliente. A
-          Dra. Thássia, além de sua experiência acadêmica, atuou como Assessora
-          Jurídica de Licitações e Contratos na Câmara Municipal de Natal,
-          trazendo uma perspectiva estratégica única em questões contratuais e
-          de governança.
+          A Dra. Thássia também traz uma visão estratégica adquirida em sua
+          atuação como Assessora Jurídica de Licitações e Contratos na Câmara
+          Municipal de Natal.
           <br />
           <br />
-          Já o Dr. Marcus, com vasta experiência em Direito Tributário, é um
-          especialista na defesa de interesses em disputas fiscais e
-          tributárias, sempre buscando soluções criativas e eficazes.
+          Com uma equipe multidisciplinar e em constante atualização,
+          trabalhamos para garantir aos nossos clientes um serviço jurídico de
+          alto nível, priorizando agilidade, eficiência e resultados concretos.
           <br />
           <br />
-          Nosso time é formado por advogados especializados, com um compromisso
-          constante em se atualizar nas áreas do Direito em que atuam,
-          garantindo assim um atendimento de altíssimo nível.
-          <br />
-          <br />
-          Trabalhamos com dedicação e paixão para oferecer a melhor defesa,
-          buscando sempre soluções rápidas, justas e eficientes. Na Nogueira
-          Oliveira, cada caso é tratado com a atenção e a importância que ele
-          merece, porque acreditamos que o sucesso de nossos clientes é o nosso
-          maior objetivo.
+          Na Nogueira Oliveira, cada caso é tratado com a atenção que merece,
+          porque o sucesso dos nossos clientes é o nosso maior objetivo.
           <br />
           <br />
         </p>
