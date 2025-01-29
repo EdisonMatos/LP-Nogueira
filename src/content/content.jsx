@@ -96,8 +96,9 @@ const content = {
       miniTag: "ESCRITÓRIO DE ADVOCACIA EM NATAL - RN",
       title: (
         <h1 className="mb-[16px]">
-          Transforme seu problema com nossa
-          <span className="text-primary"> solução jurídica</span>
+          Usamos a lei para
+          <span className="text-primary"> transformar seu problema </span>em
+          solução
         </h1>
       ),
       subtitle:
