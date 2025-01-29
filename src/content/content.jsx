@@ -44,7 +44,7 @@ const currentYear = new Date().getFullYear();
 export const infos = {
   name: "Nogueira Oliveira Escritório de Advocacia",
   email: "contato", // Email desejado pelo cliente
-  domain: "nogueiraoliveira.com.br", // Sem "www"
+  domain: "nogueiraoliveira.adv.br", // Sem "www"
   phone: {
     ddd: "84",
     firstPart: "99449", // Apenas os 5 primeiros números (incluindo o 9)
