@@ -45,7 +45,7 @@ export default function Index() {
       <FeaturesParagraphs /> */}
       <About modal={true} />
       <AboutInstagram
-        socialPrint={false}
+        socialPrint={true}
         instagram={true}
         facebook={false}
         linkedin={false}
